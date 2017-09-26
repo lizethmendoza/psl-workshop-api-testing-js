@@ -1,0 +1,23 @@
+{ 
+  "name": "psl-workshop-api-testing-js",
+  "version": "1.0.0",
+  "description": "This is a Workshop about Api Testing in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "api-testing",
+    "dojo",
+    "practice"
+  ],
+  "author": "LizethMendoza - lmendozav@psl.com.co - lizethmendoza",
+  "license": "MIT",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^3.5.3"
+  }
+}
